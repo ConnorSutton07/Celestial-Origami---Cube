@@ -42,7 +42,7 @@ if (using_image == 'y'):
         im = im.quantize(int(n_colors))
         im.save('quantized_img.png', "PNG")
     except:
-        im.save('quantized_img.png', "PNG")
+        im.save('quantized_img.png', "PNG") 
 
 #the lon/lat coordinates and temporary file names of the center of the north pole, south pole, front, right, back, and left faces respectively
 coords = [(0, 90), (0, -90), (0, 0), (90, 0), (180, 0), (270, 0)]
