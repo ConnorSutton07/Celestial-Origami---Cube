@@ -11,7 +11,7 @@ Folding instructions included!
 
 
 
-Credit for original idea and instructions: 
+Credit for original idea and folding instructions: 
 Ian J. M. Crossfield
 KU Dept. of Physics and Astronomy
 1082 Malott, 1251 Wescoe Hall Dr.
